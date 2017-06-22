@@ -1,4 +1,4 @@
-![](http://i.imgur.com/94hDwLg.jpg)
+
 
 # Overview
 
@@ -27,7 +27,7 @@ Follow these steps to build the .jar file in Intellij.
 To use from the command line, pass in the file name (for the output image) and URL as the first and second argument
 
 ```
-java -jar Capture.jar homepage https://thenewboston.com/
+java -jar Capture.jar homepage https://google.com/
 ```
 
 Also, you must have a folder called "images" in the same directory where the Capture.jar file is saved. This is where
